@@ -17,4 +17,5 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency 'solidus_core', '~> 1.1'
+  s.add_dependency 'solidus_backend', '~> 1.1'
 end
